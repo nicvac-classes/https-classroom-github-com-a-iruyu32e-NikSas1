@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17140756)
 # Le Sessioni Web
 
 La scelta tra sessioni e cookie dipende dalle specifiche esigenze del tuo progetto. Le sessioni sono ideali per dati sensibili e temporanei, mentre i cookie sono perfetti per preferenze utente e dati di lunga durata. Una buona applicazione web spesso utilizza entrambi in modo complementare.
